@@ -1,0 +1,34 @@
+img{
+    float: right;
+    border-radius: 5px;
+    border: 2px solid black ;
+}
+header{
+    text-align: center;
+}
+h4{
+    font-size: larger;
+    border: 3px solid black;
+    border-radius: 50px;
+    width: max-content;
+    background-color: white;
+    background-image: linear-gradient(rgb(222, 104, 104), white);
+    margin: 0%;
+
+}
+footer{
+    text-align: center;
+}
+h3{
+    text-decoration: underline;
+    font-size: xx-large;
+}
+body{
+    background-color: maroon;
+    background-image: linear-gradient(white,maroon,white);
+    background-position: center;
+}
+.skills{
+
+    color: rgb(242, 209, 209);
+}
